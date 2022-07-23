@@ -3,7 +3,9 @@
 
 <h1>Hello World!!👋</h1>
 
-This is Shryansh. An Information Technology student at Birla Institute of Technology.
+<h5>This is Shryansh. An Information Technology student at Birla Institute of Technology.<h5>
+ 
+Contact Me @ <a href="https://www.linkedin.com/in/shryanshnigam">Linkedin</a> 
  
     
 
