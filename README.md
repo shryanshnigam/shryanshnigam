@@ -5,7 +5,7 @@
 <br>
 <h2><i>"The only way to do great work is to love what you do...if you haven't found it yet, keep looking."</i></h2>
 
-<h3>This is Shryansh. An Information Technology student at Birla Institute of Technology.
+<h3>This is Shryansh...An Information Technology student at Birla Institute of Technology.
 <br>
 <br>
 <i>A Tech Enthusiast who believes in learning and discovering new ways to do things better using technology.</i>
