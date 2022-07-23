@@ -5,6 +5,6 @@ Hello World!!👋
 
 This is Shryansh. An Information Technology student at Birla Institute of Technology.
  
-    </html>
+    <\html>
 
 
