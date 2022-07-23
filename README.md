@@ -4,7 +4,7 @@
 <h1>Hello World!!👋</h1>
 <br>
 <h2><i>"The only way to do great work is to love what you do...if you haven't found it yet, keep looking."</i></h2>
-<br>
+
 <h3>This is Shryansh. An Information Technology student at Birla Institute of Technology.
 <br>
 <br>
