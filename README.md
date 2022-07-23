@@ -11,7 +11,8 @@
 <i>A Tech Enthusiast who believes in learning and discovering new ways to do things better using technology.</i>
 <i>Code hard and let machines do the work..!!</i>
 <br>
-Knows:
+<br>
+<i>Knows:
  <ul>
   <b><li>Languages</li></b>
         <ul>
@@ -36,16 +37,17 @@ Knows:
   </ul>
 </ul>
 <br>
-Interested in Machine Learning, Data Science, Blockchain, Software Development and problem solving.
+Interested in Machine Learning, Data Science, Blockchain, Software Development, Data Analytics and Problem Solving.
+<br>
 <br>
 <ul>
   <b><li>Major Certifications</li></b>
         <ul>
          <li>Blockchain Technology and its Applications by NIT Patna</li>
          <li>Machine Learning Summer Training by IIT Kanpur</li>
-         <li>•	Python for Machine Learning certification course by IIT Roorkee</li>
+         <li>Python for Machine Learning certification course by IIT Roorkee</li>
         </ul>
- </ul>
+ </ul></i>
  <br>
  <br>
 Contact Me @ <a href="https://www.linkedin.com/in/shryanshnigam"><i>LinkedIn</i></a> </h3>
